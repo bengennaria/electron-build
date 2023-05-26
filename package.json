@@ -28,7 +28,7 @@
     "@bengennaria/logger": "git+https://bengennaria@github.com/bengennaria/logger.git",
     "@bengennaria/releasenotes": "git+https://bengennaria@github.com/bengennaria/releasenotes.git",
     "app-root-path": "^3.0.0",
-    "electron-builder": "22.9.1",
+    "electron-builder": "23.6.0",
     "electron-icon-maker": "^0.0.5",
     "fs-extra": "^9.0.1",
     "jsonfile": "^6.1.0",
